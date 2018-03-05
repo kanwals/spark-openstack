@@ -39,7 +39,8 @@
       - dask-ml
       - distributed
       - spark-sklearn
-      - torchvision      
+      - torchvision  
+      - jupyter
     tags:
     - prepare
 
